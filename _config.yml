@@ -335,3 +335,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+media:
+  avatar:
+    min-width: 80
+    min-height: 80
