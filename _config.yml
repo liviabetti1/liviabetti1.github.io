@@ -335,8 +335,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-media:
-  avatar:
-    width: 80
-    height: 80
