@@ -39,3 +39,23 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@media {
+
+.author__avatar {
+min-width: 80em
+min-height: 80 em
+display: table-cell;
+vertical-align: top;
+width: 80px; //original: 36px
+height: 80px; //original: 36px
+
+@include breakpoint($large) {
+display: block;
+width: auto;
+height: auto;
+}
+
+img {
+max-width: 175px; //original: 110px
+border-radius: 50%;
