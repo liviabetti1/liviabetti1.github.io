@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! My name is Livia!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a PhD student at CU Boulder studying statistical and geospatial machine learning. I am advised by [Esther Rolf](https://www.estherrolf.com/). Before coming to CU, I completed by undergraduate degree in mathematics at the University of Rochester. I'm currently working in the intersection of data-centric AI and machine learning theory for geospatial applications. My heart lies in theoretical work, and I hope to develop theoretical frameworks for cool & interesting problems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My webpage is under construction, so check back for more info!
