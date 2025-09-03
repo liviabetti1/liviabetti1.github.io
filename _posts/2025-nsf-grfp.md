@@ -26,7 +26,7 @@ I'm going to skip the advice that you've probably heard on every other NSF-GRFP-
   </iframe>
 </div>
 
-At the time I was preparing my application, I had little to know idea what I was doing (at least research-wise). In my first application, I was without help, and wrote my research proposal about some research I had done in undergrad. 
+At the time I was preparing my application, I had little to know idea what I was doing (at least research-wise). In my first application, I was without help, and wrote my research proposal about some research I had done in undergrad.
 
 While doing my second application, I had just started a PhD program in Computer Science, after completing my B.S. in pure math (no, I was not good at coding). Much of my familiarity with my current field came from reading I did during Fall 2025 (at the same time I was applying for the NSF-GRFP). I had no clue how to write a proposal in this field, nor did I have any idea what was interesting or had already been done.
 
@@ -39,4 +39,3 @@ I am extremely grateful for my advisor, who helped come up with ideas on what to
 As I elluded to before, at the time of my second application, I had no idea what I was doing. Believe it or not, this makes it pretty hard to write a research proposal. Even when I knew what I was writing about, I had no idea if an experiment I was proposing was realistic, if the timeline of my project was realistic at all, or if it even made sense. While these points should be refined when writing your statement, no one will be able to get this just right.
 
 I think one of the things that makes a research proposal stronger is to anticipate and address challenges you might encounter: generally, if X happens, I'll re-evaluate Y and then do Z. Maybe your problem definition does not make sense, and you have to make more assumptions, or maybe you realize your experiment will tak way too long, and you have to make some modification. Whatever it may be, it's helpful if you notice and point it out in your application.
-
