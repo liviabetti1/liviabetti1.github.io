@@ -153,6 +153,7 @@ collections:
     output: true
   projects:
     output: true
+    permalink: /projects/:name/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -265,8 +266,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Betti]
+  first_name: [Livia, L.]
 
   style: apa
   locale: en
